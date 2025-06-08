@@ -22,7 +22,7 @@ I’m a MERN Stack Developer passionate about building interactive, user-friendl
 
 ## 📂 Projects
 - **Hangman Game** – Classic word-guessing game built with HTML, CSS, and JavaScript.  
-- **Movie Watchlist** – A full-stack app to search movies using Trakt API, save favorites with local storage, and manage watchlist with pagination and random picks.
+- **Movie Watchlist** – A web application that lets users search movies via Trakt API, save favorites locally, and manage their watchlist with features like pagination and random picks.
 
 
 ---
