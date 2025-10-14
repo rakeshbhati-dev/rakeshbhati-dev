@@ -21,8 +21,8 @@ I’m a MERN Stack Developer passionate about building interactive, user-friendl
 ---
 
 ## 📂 Projects
-- **Hangman Game** – Classic word-guessing game built with HTML, CSS, and JavaScript.  
-- **Movie Watchlist** – A web application that lets users search movies via Trakt API, save favorites locally, and manage their watchlist with features like pagination and random picks.
+- **TypeTussle** – A word-guessing game with health bars, built with HTML, CSS, and JavaScript.  
+- **WhatchNow** – A web application that lets users search movies, save favorites locally, and manage their watchlist with features like pagination and random picks.
 - **Password Generator** –A simple and responsive password generator app let user to pick password in a range, with options to add numbers and special symbols and copy in one click.
 
 ---
