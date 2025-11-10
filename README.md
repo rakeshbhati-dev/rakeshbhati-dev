@@ -24,7 +24,8 @@ I’m a MERN Stack Developer passionate about building interactive, user-friendl
 - **TypeTussle** – A word-guessing game with health bars, built with HTML, CSS, and JavaScript.  
 - **WhatchNow** – A web application that lets users search movies, save favorites locally, and manage their watchlist with features like pagination and random picks.
 - **Password Generator** –A simple and responsive password generator app let user to pick password in a range, with options to add numbers and special symbols and copy in one click.
-
+- **NextStore** - A Full Stack E Commerce web application where admin manage product, categories. User can search product, view product detail, add product to cart and place order.
+- **Role Manage** - A Full Stack Role Based Access System that enables admins to define roles, assign permissions, and manage modules whereas users only interact with the modules they are authorized to use.
 ---
 
 
