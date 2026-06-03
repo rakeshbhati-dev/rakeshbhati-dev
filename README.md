@@ -1,5 +1,5 @@
 # Hi, I'm Rakesh Bhati 👋
-### Full Stack MERN Developer | Building Real-World Web Apps | Open to Jobs & Freelance Projects 🚀
+### Full Stack MERN Developer | Building Scalable Web Applications | Open to Full-Time & Freelance Opportunities 🚀
 
 ---
 
