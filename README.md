@@ -3,6 +3,13 @@
 
 ---
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
+
 ## 👨‍💻 About Me
 
 I'm a **MERN Stack Developer** who loves turning ideas into clean, functional, and user-friendly web applications. Whether you're a **business looking to hire a freelancer** or a **company seeking a full-time developer**, I bring the same energy — thoughtful code, clear communication, and reliable delivery.
