@@ -38,9 +38,11 @@ I'm a **MERN Stack Developer** who loves turning ideas into clean, functional, a
 
 - **[Role Manage](https://github.com/rakeshbhati-dev/RoleManage)** – Full-stack Role-Based Access Control system. Admins define roles and permissions; users access only authorized modules. *(MERN Stack)*
 
-- **[WhatchNow](https://github.com/rakeshbhati-dev/WhatchNow)** – Movie search app with favorites, watchlist management, pagination, and random picks. *(HTML, CSS, JS)*
+- **[WhatchNow](https://github.com/rakeshbhati-dev/WhatchNow)** – Movie search app with favorites, watchlist management, pagination, and random picks. *(React, Daisyui, Trakt API)*
+![WhatchNow Demo](./assets/whatchnow-demo.gif)
 
 - **[TypeTussle](https://typetussle.netlify.app/)** – Word-guessing game with health bars and competitive gameplay. *(HTML, CSS, JS)*
+![TypeTussle Demo](./assets/typetussle-demo.gif)
 
 - **[Password Generator](https://lockly.netlify.app/)** – Responsive password generator with length control, symbols, numbers, and one-click copy. *(HTML, CSS, JS)*
 
