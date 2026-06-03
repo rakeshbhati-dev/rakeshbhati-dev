@@ -34,6 +34,7 @@ I'm a **MERN Stack Developer** who loves turning ideas into clean, functional, a
 ## 📂 Projects
 
 - **[Pockentra](https://pockentra.vercel.app/)** – Full-stack personal finance tracker with interactive charts, income/expense management, and a responsive dashboard. *(MongoDB, Express, React, Node.js)*
+![Pockentra Demo](./assets/pockentra-demo.gif)
 
 - **[Role Manage](https://github.com/rakeshbhati-dev/RoleManage)** – Full-stack Role-Based Access Control system. Admins define roles and permissions; users access only authorized modules. *(MERN Stack)*
 
