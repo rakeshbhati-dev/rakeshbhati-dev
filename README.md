@@ -26,15 +26,15 @@ I'm a **MERN Stack Developer** who loves turning ideas into clean, functional, a
 
 ## 📂 Projects
 
-- **[Pockentra](https://github.com/rakeshbhati-dev)** – Full-stack personal finance tracker with interactive charts, income/expense management, and a responsive dashboard. *(MongoDB, Express, React, Node.js)*
+- **[Pockentra](https://pockentra.vercel.app/)** – Full-stack personal finance tracker with interactive charts, income/expense management, and a responsive dashboard. *(MongoDB, Express, React, Node.js)*
 
-- **[Role Manage](https://github.com/rakeshbhati-dev)** – Full-stack Role-Based Access Control system. Admins define roles and permissions; users access only authorized modules. *(MERN Stack)*
+- **[Role Manage](https://github.com/rakeshbhati-dev/RoleManage)** – Full-stack Role-Based Access Control system. Admins define roles and permissions; users access only authorized modules. *(MERN Stack)*
 
-- **[WhatchNow](https://github.com/rakeshbhati-dev)** – Movie search app with favorites, watchlist management, pagination, and random picks. *(HTML, CSS, JS)*
+- **[WhatchNow](https://github.com/rakeshbhati-dev/WhatchNow)** – Movie search app with favorites, watchlist management, pagination, and random picks. *(HTML, CSS, JS)*
 
-- **[TypeTussle](https://github.com/rakeshbhati-dev)** – Word-guessing game with health bars and competitive gameplay. *(HTML, CSS, JS)*
+- **[TypeTussle](https://typetussle.netlify.app/)** – Word-guessing game with health bars and competitive gameplay. *(HTML, CSS, JS)*
 
-- **[Password Generator](https://github.com/rakeshbhati-dev)** – Responsive password generator with length control, symbols, numbers, and one-click copy. *(HTML, CSS, JS)*
+- **[Password Generator](https://lockly.netlify.app/)** – Responsive password generator with length control, symbols, numbers, and one-click copy. *(HTML, CSS, JS)*
 
 ---
 
