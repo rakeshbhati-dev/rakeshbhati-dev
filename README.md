@@ -1,42 +1,63 @@
 # Hi, I'm Rakesh Bhati 👋
-
-### MERN Stack Developer | Passionate about building real-world web apps | Open to opportunities 🚀
+### Full Stack MERN Developer | Building Real-World Web Apps | Open to Jobs & Freelance Projects 🚀
 
 ---
 
 ## 👨‍💻 About Me
-I’m a MERN Stack Developer passionate about building interactive, user-friendly web applications. I enjoy turning ideas into clean, functional code and continuously learning new technologies to improve my skills.
 
+I'm a **MERN Stack Developer** who loves turning ideas into clean, functional, and user-friendly web applications. Whether you're a **business looking to hire a freelancer** or a **company seeking a full-time developer**, I bring the same energy — thoughtful code, clear communication, and reliable delivery.
+
+- 💼 Open to **full-time roles** and **freelance projects**
+- 🌱 Continuously learning and building in public
+- ⚡ I enjoy working on products that solve real problems
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** JavaScript (ES6+),Java, HTML5, CSS3  
-- **Frontend:** React, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, VS Code, Postman, Canva  
+
+- **Languages:** JavaScript (ES6+), Java, HTML5, CSS3
+- **Frontend:** React, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, VS Code, Postman, Canva
 - **Others:** REST APIs, Local Storage, Responsive Design
 
 ---
 
 ## 📂 Projects
-- **TypeTussle** – A word-guessing game with health bars, built with HTML, CSS, and JavaScript.  
-- **WhatchNow** – A web application that lets users search movies, save favorites locally, and manage their watchlist with features like pagination and random picks.
-- **Password Generator** –A simple and responsive password generator app let user to pick password in a range, with options to add numbers and special symbols and copy in one click.
-- **NextStore** - A Full Stack E Commerce web application where admin manage product, categories. User can search product, view product detail, add product to cart and place order.
-- **Role Manage** - A Full Stack Role Based Access System that enables admins to define roles, assign permissions, and manage modules whereas users only interact with the modules they are authorized to use.
+
+- **[Pockentra](https://github.com/rakeshbhati-dev)** – Full-stack personal finance tracker with interactive charts, income/expense management, and a responsive dashboard. *(MongoDB, Express, React, Node.js)*
+
+- **[Role Manage](https://github.com/rakeshbhati-dev)** – Full-stack Role-Based Access Control system. Admins define roles and permissions; users access only authorized modules. *(MERN Stack)*
+
+- **[WhatchNow](https://github.com/rakeshbhati-dev)** – Movie search app with favorites, watchlist management, pagination, and random picks. *(HTML, CSS, JS)*
+
+- **[TypeTussle](https://github.com/rakeshbhati-dev)** – Word-guessing game with health bars and competitive gameplay. *(HTML, CSS, JS)*
+
+- **[Password Generator](https://github.com/rakeshbhati-dev)** – Responsive password generator with length control, symbols, numbers, and one-click copy. *(HTML, CSS, JS)*
+
 ---
 
+## 💼 Freelance Services
 
+Looking to build or improve your web presence? Here's what I can help with:
+
+- 🌐 **Custom Websites** – Business sites, portfolios, landing pages
+- ⚙️ **Web Applications** – Full-stack apps tailored to your workflow
+- 🔌 **REST API Development** – Backend services and integrations
+- 🎨 **UI/UX Implementation** – Responsive, clean, mobile-friendly interfaces
+- 🛠️ **Maintenance & Fixes** – Bug fixes, performance improvements, feature additions
+
+> 💬 Have a project in mind? Let's talk — [rakeshbhati.dev@gmail.com](mailto:rakeshbhati.dev@gmail.com)
 
 ---
 
 ## 📫 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/rakesh-bhati)  
-- [GitHub](https://github.com/rakeshbhati-dev)  
-- Email: rakeshbhati.dev@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/rakesh-bhati)
+- [GitHub](https://github.com/rakeshbhati-dev)
+- 📧 [rakeshbhati.dev@gmail.com](mailto:rakeshbhati.dev@gmail.com)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
